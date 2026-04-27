@@ -29,8 +29,7 @@ The system aims to assist in early diagnosis and reduce the workload on medical 
 - Python
 
 ### Frameworks & Libraries
-- Flask (Backend)
-- PyTorch / TensorFlow (Model)
+- PyTorch (Model)
 - OpenCV (Image Processing)
 - NumPy, Pandas (Data Handling)
 - Matplotlib (Visualization)
