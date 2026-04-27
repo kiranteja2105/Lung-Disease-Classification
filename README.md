@@ -18,8 +18,6 @@ The system aims to assist in early diagnosis and reduce the workload on medical 
 - 🤖 AI-based disease prediction
 - ⚡ Fast and accurate classification
 - 📊 Multi-class classification (4 categories)
-- 🌐 Web interface using Flask
-- 🔍 Real-time inference
 
 ---
 
